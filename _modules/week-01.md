@@ -1,21 +1,13 @@
 ---
-title: Introduction to Java
+title: Introduction to vector analysis
 ---
+Jan 11
+: [Lecture 1, Vector Algebra and Differential Calculus](#)
+  : [Chapters 1.1-.2.](#)
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
-
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Jan 13
+: [Lecture 2, Integral Calculus and Curvillinear Coordinates](#)
+  : [Chapters 1.3-.4.](#)
 
 Oct 2
 : [Tracing, IntLists, & Recursion](#)
