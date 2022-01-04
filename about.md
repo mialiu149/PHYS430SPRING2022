@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PHYS430: syllubus
+title: PHYS430
 description: >-
 ---
 
