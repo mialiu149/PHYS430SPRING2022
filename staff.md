@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Staff
+title: Instructor and TA
 description: A listing of all the course staff members.
 ---
 ## Instructor
