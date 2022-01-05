@@ -20,11 +20,10 @@ Prerequisites:Successful completion of undergraduate level PHYS 27200
 
 ## Course Information
 - Time: TTh: 1030-1145, Spring, 2022 
-- Location PHYS201
+- Location ARMS1201
 - Textbook: Introduction to Electrodynamics. David J. Griffiths Publisher – Pearson, New York ISBN 13: 978-0-321-85656-2
 - [course calendar](calendar.md),
 - [staff](staff.md) page,
-- weekly [schedule](schedule.md).
 - annoucements will be made on brightspace.
 
 Just the Class is a set of customizations on top of the popular [Just the Docs](https://github.com/pmarsceill/just-the-docs) theme, which provides a robust and thoroughly-tested foundation that makes it easy to extend for your own special use cases. These foundational features include:

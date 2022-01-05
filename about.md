@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PHYS430
+title: Grading and Policies
 description: >-
 ---
 
