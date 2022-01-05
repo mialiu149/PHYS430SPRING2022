@@ -9,7 +9,4 @@ Jan 13
 : [Lecture 2, Integral Calculus and Curvillinear Coordinates](#)
   : [Chapters 1.3-.4.](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **HW 1**{: .label .label-red }
