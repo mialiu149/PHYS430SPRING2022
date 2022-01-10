@@ -15,8 +15,8 @@ description: >-
 Two mid-term exams and a final exam will be given. Homework assignments will be given throughout the semester. Each homework problem will be given an assigned value of 5 points. Partial credit will be given to clear legible work. NO LATE HOMEWORK WILL BE ACCEPTED. 
 The grade components for the course are as follows:
 - Final – 30%
-- Midterm 1 – 15%
-- Midterm 2 – 15%
+- Midterm 1 – 20%
+- Midterm 2 – 20%
 - Homework – 30%
 
 Grading scale
