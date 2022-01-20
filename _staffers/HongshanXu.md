@@ -3,4 +3,4 @@ name: Hongshan Xu
 role: Teaching Assistant
 email: xu1632@purdue.edu
 ---
-Office hour: TBD
+Office hour: Wed 4-5 pm. PHYS 134
