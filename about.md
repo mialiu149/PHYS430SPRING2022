@@ -18,7 +18,7 @@ The grade components for the course are as follows:
 - Midterm 1 – 20%
 - Midterm 2 – 20%
 - Homework – 30%
-
+- In class quizzes - 5% (bonus)
 Grading scale
 - A  : 92.00 – 100.00
 - A- : 90.00 - 91.99
